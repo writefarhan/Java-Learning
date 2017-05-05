@@ -9,7 +9,7 @@ public class sortArray {
     public static void main(String[] args) {
 
 
-        int[] myArray = {45,32,664,31,6,86,98};
+        int[] myArray = {45,32,664,31,6,86,98,76};
 
 
         int temp;
