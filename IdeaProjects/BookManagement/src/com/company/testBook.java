@@ -11,7 +11,7 @@ public class testBook {
 
 
         // Test Book's constructor and toString()
-        Book book1 = new Book("Heade First Java 2nd Ed",headefirst,14.5,1000);
+        Book book1 = new Book("Head First Java 2nd Ed",headefirst,14.5,1000);
 
         System.out.println(book1);
 
